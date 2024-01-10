@@ -10,7 +10,7 @@ class Calculator(tk.CTk):
         super().__init__()
         self.geometry('330x370') # Default Geometry
         self.resizable(0,0) # Fixed size
-        self.title('Calculadora') # The Title
+        self.title('Calculator') # The Title
         self.iconbitmap('./img/calc.ico') # The Logo
         
         # Input
