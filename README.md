@@ -1,7 +1,7 @@
 <html>
   <body>
     <h1 align='center'> Windows Calculator Python Clone 🐍</h1>
-    <h2 align='center'>Just a simple "clone" of the <a href='https://github.com/Microsoft/calculator'>Windows Calculator</a> , written in Python & <a href='https://github.com/tomschimansky/customtkinter'>Customtkinter</a></h2>
+    <h2 align='center'>Just a simple "clone" of the <a href='https://github.com/Microsoft/calculator'>Windows Calculator</a>, written in Python & <a href='https://github.com/tomschimansky/customtkinter'>Customtkinter</a>.</h2>
     <p align='center'>
       <img align='center' src='https://github.com/joseollarves/windows-calculator-python-clone/assets/107653281/8d302f03-3f9d-4662-8fce-33610460b4f4'/>
     </p>
