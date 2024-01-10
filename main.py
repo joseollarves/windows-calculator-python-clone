@@ -11,14 +11,14 @@ class Calculator(tk.CTk):
         self.geometry('330x370') # Default Geometry
         self.resizable(0,0) # Fixed size
         self.title('Calculator') # The Title
-        self.iconbitmap('./img/calc.ico') # The Logo
+        self.iconbitmap('_internal/img/calc.ico') # The Logo
         
         # Input
         self.input = ''
         self.textInput = tk.StringVar()
 
         # Delete icon
-        self.deleteIcon = tk.CTkImage(light_image=Image.open('./img/delete_black.png'),dark_image=Image.open('./img/delete_white.png'))
+        self.deleteIcon = tk.CTkImage(light_image=Image.open('_internal/img/delete_black.png'),dark_image=Image.open('_internal/img/delete_white.png'))
 
         # Declaring components
         self.components() # The components of the calculator
